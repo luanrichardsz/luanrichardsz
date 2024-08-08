@@ -1,7 +1,7 @@
 
 # 👨‍💻 Prazer, Luan
 
-Sou Luan, um garoto de 18 anos que quer se aventurar no mundo da tecnologia. Atualmente cursando ADS na faculdade FICR pelo embarque digital e tambem fazendo no tecnico no Grau Tecnico. 
+Oi, sou o Luan, tenho 18 anos e estou explorando o mundo da tecnologia. Faço Análise e Desenvolvimento de Sistemas (ADS) na FICR e um técnico no Grau Técnico. Aqui no GitHub, você vai ver alguns dos meus projetos e experimentos. Se gostar do meus projetos, me chama aí!
 
 
 ## 🚀 Sobre mim
@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia e tudo que se refere a programação, estou dando 
 ### 🐈‍⬛ GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanrichardsz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Minhas Redes Socias
+## Minhas Redes Socias:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luanrichardsz-blue)](https://www.linkedin.com/in/luanrichardsz/)
 
