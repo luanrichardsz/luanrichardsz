@@ -1,12 +1,12 @@
 
 # 👨‍💻 Prazer, Luan
 
-Oi, sou o Luan, tenho 18 anos e estou explorando o mundo da tecnologia. Faço Análise e Desenvolvimento de Sistemas (ADS) na FICR e um técnico no Grau Técnico. Aqui no GitHub, você vai ver alguns dos meus projetos e experimentos. Se gostar do meus projetos, me chama aí!
+Oi, sou o Luan, tenho 18 anos e estou explorando o mundo da tecnologia. Faço Análise e Desenvolvimento de Sistemas (ADS) na FICR e um técnico no Grau Técnico. Aqui no GitHub, você vai ver alguns dos meus projetos e experimentos. Se gostar dos meus projetos, me chama aí!
 
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e tudo que se refere a programação, estou dando os primeiros passos em GitHub agora para daqui para frente eu trabalhar com isso.
+Sou apaixonado por tecnologia e programação, e estou começando minha jornada no GitHub. Gosto de explorar novas linguagens e criar projetos desafiadores. Também sou bom em comunicação e adoro colaborar e trocar ideias sobre tecnologia.
 
 ### 💻 Habilidades:     
 <img loading="lazy" class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
