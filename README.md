@@ -1,7 +1,7 @@
 
 # 👨‍💻 Prazer, Luan
 
-Oi, sou Luan, tenho 18 anos e estou explorando esse mundo da tecnologia que eu tanto amo. Faço Análise e Desenvolvimento de Sistemas (ADS) na FICR. Aqui nessa rede, você vai ver alguns dos meus projetos e experimentos.
+Oi, sou Luan, tenho 18 anos, morador de Recife/PE e estou explorando esse mundo da tecnologia que eu tanto amo. Faço Análise e Desenvolvimento de Sistemas (ADS) na FICR. Aqui nessa rede, você vai ver alguns dos meus projetos e experimentos.
 
 
 ## 🚀 Sobre mim
