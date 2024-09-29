@@ -36,6 +36,12 @@ Sou um garoto apaixonado por tecnologia, programação e a tudo que muda ao pass
 
 ## Minhas Redes Socias:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luanrichardsz-blue)](https://www.linkedin.com/in/luanrichardsz/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-luanrichardsz-yellow)](https://www.instagram.com/luanrichardsz/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/luanricharsz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  </a>
+  <a href="https://instagram.com/luanrichardsz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
