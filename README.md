@@ -1,7 +1,7 @@
 
 # 👨‍💻 Prazer, Luan
 
-Oi, sou o Luan, tenho 18 anos e estou explorando o mundo da tecnologia. Faço Análise e Desenvolvimento de Sistemas (ADS) na FICR e um técnico no Grau Técnico. Aqui no GitHub, você vai ver alguns dos meus projetos e experimentos. Se gostar dos meus projetos, me chama aí!
+Oi, sou o Luan, tenho 18 anos e estou explorando o mundo da tecnologia. Faço Análise e Desenvolvimento de Sistemas (ADS) na FICR. Aqui nessa rede, você vai ver alguns dos meus projetos e experimentos. Se gostar dos meus projetos, me chama ai!
 
 
 ## 🚀 Sobre mim
