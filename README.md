@@ -6,7 +6,7 @@ Oi, sou o Luan, tenho 18 anos e estou explorando o mundo da tecnologia. Faço An
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e programação, e estou começando minha jornada no GitHub. Gosto de explorar novas linguagens e criar projetos desafiadores. Também sou bom em comunicação e adoro colaborar e trocar ideias sobre tecnologia.
+Sou um garoto apaixonado por tecnologia, programação e a tudo que muda ao passar do tempo. Estou começando minha jornada nesse mundo e gosto de explorar novas linguagens e criar projetos desafiadores. Gosto muito de me conectar, falar com conhecer pessoas, e amo aprender coisas novas.
 
 ### 💻 Habilidades:     
 <img loading="lazy" class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
