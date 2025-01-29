@@ -14,7 +14,7 @@ Sou um garoto apaixonado por tecnologia, programação e a tudo que muda ao pass
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/> 
   </a>
   <img width="12" /> 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Nodejs" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Node.js" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   </a>
   <img width="12" />
