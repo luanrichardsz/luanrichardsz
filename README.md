@@ -18,7 +18,7 @@ Sou um garoto apaixonado por tecnologia, programação e a tudo que muda ao pass
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   </a>
   <img width="12" />
-  <a href="https://pt.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
   </a>
   <img width="12" />
