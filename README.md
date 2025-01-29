@@ -30,7 +30,7 @@ Sou um garoto apaixonado por tecnologia, programação e a tudo que muda ao pass
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/Python" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   </a>
   <img width="12" />
