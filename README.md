@@ -6,7 +6,7 @@ Oi, sou Luan! Tenho 18 anos, moro em Recife/PE e sou apaixonado por tecnologia. 
 
 ## 🚀 Sobre mim
 
-Sou um garoto apaixonado por tecnologia, programação e a tudo que muda ao passar do tempo. Estou começando minha jornada nesse mundo e gosto de explorar novas linguagens e criar projetos desafiadores. Gosto muito de me conectar, falar com conhecer pessoas e amo aprender coisas novas. Se gostar dos meus projetos ou so falar comigo, me chama ai!
+Sou um garoto apaixonado por tecnologia, programação e a tudo que muda ao passar do tempo. Estou começando minha jornada nesse mundo e gosto de explorar novas linguagens e criar projetos desafiadores. Gosto muito de me conectar, falar, conhecer pessoas e amo aprender coisas novas. Se gostar dos meus projetos ou so falar comigo, me chama ai!
 
 ### 💻 Habilidades:     
 <div align="left">
