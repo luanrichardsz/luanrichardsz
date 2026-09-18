@@ -1,7 +1,7 @@
 
 # 👨‍💻 Prazer, Luan
 
-Oi, sou Luan! Tenho 19 anos, moro em Recife/PE e sou apaixonado por tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na FICR e estou sempre explorando novas possibilidades nesse universo que tanto amo. Aqui, você vai encontrar alguns dos meus projetos, experimentos e conteúdos das minhas aulas.
+Oi, sou Luan! Tenho 20 anos, moro em Recife/PE e sou apaixonado por tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na FICR e estou sempre explorando novas possibilidades nesse universo que tanto amo. Aqui, você vai encontrar alguns dos meus projetos, experimentos e conteúdos das minhas aulas.
 
 
 ## 🚀 Sobre mim
